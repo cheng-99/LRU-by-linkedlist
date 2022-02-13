@@ -1,0 +1,7 @@
+﻿  main.c
+D:\c++Code\Day_12\day_12\04_链表\main.c(22,15): warning C4013: “calloc”未定义；假设外部返回 int
+D:\c++Code\Day_12\day_12\04_链表\main.c(22,38): warning C4047: “return”:“linkedlist *”与“int”的间接级别不同
+D:\c++Code\Day_12\day_12\04_链表\main.c(27,1): warning C4047: “初始化”:“node *”与“int”的间接级别不同
+D:\c++Code\Day_12\day_12\04_链表\main.c(76,7): warning C4013: “free”未定义；假设外部返回 int
+D:\c++Code\Day_12\day_12\04_链表\main.c(98,1): warning C4047: “初始化”:“node *”与“int”的间接级别不同
+  04_链表.vcxproj -> D:\c++Code\Day_12\day_12\Debug\04_链表.exe
